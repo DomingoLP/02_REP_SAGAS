@@ -1,1 +1,27 @@
 1	Star Wars: Episodio I - La amenaza fantasma
+2	Star Wars: Episodio II - El ataque de los clones
+3	Star Wars: Episodio III - La venganza de los Sith
+4	Star Wars: Episodio IV - Una nueva esperanza
+5	Star Wars: Episodio V - El imperio contraataca
+6	Star Wars: Episodio VI - El retorno del Jedi
+
+Lista de capítulos realizados a partir de Disney:
+Películas:
+
+    Star Wars: Episodio VII - El despertar de la Fuerza (2015)
+    Star Wars: Episodio VIII - Los últimos Jedi (2017)
+    Star Wars: Episodio IX - El ascenso de Skywalker (2019)
+
+Spin-offs (Historias independientes):
+
+    Rogue One: Una historia de Star Wars (2016): Una película que cuenta la historia de un grupo de rebeldes que roban los planos de la Estrella de la Muerte.
+    Han Solo: Una historia de Star Wars (2018): Explora la juventud de Han Solo y cómo se convirtió en el contrabandista que todos conocemos.
+
+Series de televisión:
+
+    The Mandalorian (2019-presente): Una serie de acción real que sigue las aventuras de un pistolero solitario en los confines de la galaxia, alejado de la autoridad de la Nueva República.
+    The Book of Boba Fett (2021): Una serie derivada de "The Mandalorian" centrada en el personaje de Boba Fett.
+    Star Wars: The Bad Batch (2021-presente): Se enfoca en un grupo de soldados clones experimentales después de los eventos de "The Clone Wars".
+    Andor (Próximamente): Serie centrada en el personaje de Cassian Andor, de "Rogue One", antes de los eventos de la película.
+    Obi-Wan Kenobi (Próximamente): Serie que se centrará en Obi-Wan Kenobi después de los eventos de "La venganza de los Sith".
+    Ahsoka (Próximamente): Serie protagonizada por Ahsoka Tano, ambientada después de "El retorno del Jedi".
